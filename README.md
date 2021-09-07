@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student in Waseda University (Japan) majoring Computer Science especially design and implementation of a programming language.
+I am a student in Waseda University (Japan) majoring Computer Science especially design and implementation of programming languages.
 
 Feel free to follow me on twitter at https://twitter.com/sano65747676
 
