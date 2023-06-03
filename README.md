@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I am a software enginner interested in theories and designs of programming languages, living in Tokyo, Japan.
 Feel free to follow me on twitter at https://twitter.com/sano65747676
 
+<!--
 ## Here are some of my works
 ### [Web Studio](https://github.com/sano-jin/web-studio)
 A simple online music maker
@@ -36,4 +37,4 @@ A simple online meeting web-app implemented in TypeScript with WebRTC, Nodejs an
 
 ## Programming languages that I often use:
 - OCaml, Haskell, TypeScript, Elm, C++, Python, ...
-
+-->
