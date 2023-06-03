@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a software enginner interested in theories and designs of programming languages, living in Tokyo, Japan.
-Feel free to follow me on twitter at https://twitter.com/sano65747676
+Feel free to contact me at [twitter@sano_jn](https://twitter.com/sano_jn)
 
 <!--
 ## Here are some of my works
