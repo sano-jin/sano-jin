@@ -27,7 +27,9 @@ My main areas of focus include functional programming languages,
 type systems, software verification, and graph transformation.
 
 # Publications
+
 Refereed.
+
 1. ([paper](https://link.springer.com/chapter/10.1007/978-3-031-36709-0_14))
    **Jin Sano** and Kazunori Ueda,
    Implementing the λGT Language: A Functional Language with Graphs as First-Class Data.
@@ -42,7 +44,9 @@ Refereed.
    Type checking data structures more complex than tree,
    Journal of Information Processing,
    Vol.31, 2023, pp.112-130. DOI: <https://doi.org/10.2197/ipsjjip.31.112>.
+
 Unrefereed.
+
 1. ([pdf](http://jssst.or.jp/files/user/taikai/2022/papers/20-L.pdf),
    [slide](./materials/jssst2022.pdf))
    **Jin Sano** and Kazunori Ueda.
