@@ -1,3 +1,7 @@
+---
+title: Jin SANO
+---
+
 I am a software engineer (and a researcher)
 interested in theories and designs of programming languages,
 living in Tokyo, Japan.
