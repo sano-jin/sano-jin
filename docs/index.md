@@ -1,5 +1,6 @@
 ---
 title: Jin SANO
+layout: post
 ---
 
 I am a software engineer (and a researcher)
