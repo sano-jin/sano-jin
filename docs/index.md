@@ -20,10 +20,12 @@ April 2017 -- March 2021: Bachelor of Engineering
   School of Fundamental Science and Engineering,
   Waseda University,
   Supervisor: Professor Kazunori Ueda
+
 # Research Interests
 I am interested in the theories and designs of programming languages.
 My main areas of focus include functional programming languages,
 type systems, software verification, and graph transformation.
+
 # Publications
 Refereed.
 1. ([paper](https://link.springer.com/chapter/10.1007/978-3-031-36709-0_14))
