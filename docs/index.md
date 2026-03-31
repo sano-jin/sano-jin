@@ -36,7 +36,7 @@ Refereed.
 1. ([arXiv](https://arxiv.org/abs/2510.17429))
    **Jin Sano**, Naoki Yamamoto, and Kazunori Ueda:
    "Introducing Linear Implication Types to λGT for Computing With Incomplete Graphs",
-   to be appear on Journal of Information Processing,
+   to be published on Journal of Information Processing.
 2. ([paper](https://link.springer.com/chapter/10.1007/978-3-031-36709-0_14))
    **Jin Sano** and Kazunori Ueda,
    "Implementing the λGT Language: A Functional Language with Graphs as First-Class Data",
