@@ -2,33 +2,8 @@ I am a software engineer and researcher in Tokyo, Japan,
 with interests in programming language theory and design.
 
 - <https://orcid.org/0000-0003-4616-4767>
-- [github: sano-jin](https://github.com/sano-jin)
 - [x/twitter: sano_jn](https://twitter.com/sano_jn)
-
-# Education
-
-- April 2024 -- Present:
-  Doctoral Program in Computer Science and Communications Engineering
-  Graduate School of Fundamental Science and Engineering,
-  Waseda University.
-  Supervisor: Professor Kazunori Ueda.
-
-- April 2021 -- March 2023:
-  Master's Program in Computer Science and Communications Engineering,
-  Graduate School of Fundamental Science and Engineering,
-  Waseda University.
-  Supervisor: Professor Kazunori Ueda.
-
-- April 2017 -- March 2021:
-  Bachelor of Engineering in Computer Science and Engineering,
-  School of Fundamental Science and Engineering,
-  Waseda University.
-  Supervisor: Professor Kazunori Ueda.
-
-# Professional Experience
-
-- April 2023 -- Present:
-  NTT Computer and Data Science Laboratories.
+- [github: sano-jin](https://github.com/sano-jin)
 
 # Research Interests
 
@@ -94,7 +69,31 @@ Unrefereed Publications
    [Student Encouragement Award](https://jssst2021.wordpress.com/).
    The 38th JSSST Annual Conference, 2021.
 
+# Professional Experience
+
+- April 2023 -- Present:
+  NTT Computer and Data Science Laboratories.
+
+# Education
+
+- April 2024 -- Present:
+  Doctoral Program in Computer Science and Communications Engineering
+  Graduate School of Fundamental Science and Engineering,
+  Waseda University.
+  Supervisor: Professor Kazunori Ueda.
+
+- April 2021 -- March 2023:
+  Master's Program in Computer Science and Communications Engineering,
+  Graduate School of Fundamental Science and Engineering,
+  Waseda University.
+  Supervisor: Professor Kazunori Ueda.
+
+- April 2017 -- March 2021:
+  Bachelor of Engineering in Computer Science and Engineering,
+  School of Fundamental Science and Engineering,
+  Waseda University.
+  Supervisor: Professor Kazunori Ueda.
+
 # Contact
 
-- [x/twitter: sano_jn](https://twitter.com/sano_jn)
 - ``jinsano.jp+cs `at` gmail.com``
