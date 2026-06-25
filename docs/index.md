@@ -25,7 +25,8 @@ Refereed Publications
    **Jin Sano** and Kazunori Ueda,
    "Implementing the λGT Language: A Functional Language with Graphs as First-Class Data",
    In Proc. 16th International Conference on Graph Transformation (ICGT 2023),
-   LNCS 13961, Springer-Verlag, 2023, pp.263-277, DOI:<https://doi.org/10.1007/978-3-031-36709-0_14>.
+   LNCS 13961, Springer-Verlag, 2023, pp.263-277,
+   DOI: <https://doi.org/10.1007/978-3-031-36709-0_14>.
 3. **Jin Sano** and Kazunori Ueda:
    "Towards Axiomatizing Port Hypergraph Isomorphism",
    In Proc. [PPL2023](https://jssst-ppl.org/workshop/2023/).
