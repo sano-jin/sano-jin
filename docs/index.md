@@ -1,6 +1,5 @@
-I am a software engineer (and a researcher)
-interested in theories and designs of programming languages,
-living in Tokyo, Japan.
+I am a software engineer and researcher in Tokyo, Japan,
+with interests in programming language theory and design.
 
 - <https://orcid.org/0000-0003-4616-4767>
 - [github: sano-jin](https://github.com/sano-jin)
@@ -8,11 +7,14 @@ living in Tokyo, Japan.
 
 # Education
 
-- April 2023 -- Present:
-  Software Engineer at a Japanese tech company.
+- April 2024 -- Present:
+  Doctoral Program in Computer Science and Communications Engineering
+  Graduate School of Fundamental Science and Engineering,
+  Waseda University.
+  Supervisor: Professor Kazunori Ueda.
 
 - April 2021 -- March 2023:
-  Master’s Program in Computer Science and Communications Engineering,
+  Master's Program in Computer Science and Communications Engineering,
   Graduate School of Fundamental Science and Engineering,
   Waseda University.
   Supervisor: Professor Kazunori Ueda.
@@ -23,20 +25,27 @@ living in Tokyo, Japan.
   Waseda University.
   Supervisor: Professor Kazunori Ueda.
 
+# Professional Experience
+
+- April 2023 -- Present:
+  NTT Computer and Data Science Laboratories.
+
 # Research Interests
 
-I am interested in the theories and designs of programming languages.
+My research interests lie in programming language theory and design.
 My main areas of focus include functional programming languages,
 type systems, software verification, and graph transformation.
 
 # Publications
 
-Refereed.
+Refereed Publications
 
-1. ([arXiv](https://arxiv.org/abs/2510.17429))
+1. ([paper](https://doi.org/10.2197/ipsjjip.34.469)
+   [extended arXiv](https://arxiv.org/abs/2510.17429))
    **Jin Sano**, Naoki Yamamoto, and Kazunori Ueda:
    "Introducing Linear Implication Types to λGT for Computing With Incomplete Graphs",
-   to be appear on Journal of Information Processing,
+   Journal of Information Processing, Vol.34, 2026, pp.469–492,
+   DOI: <https://doi.org/10.2197/ipsjjip.34.469>
 2. ([paper](https://link.springer.com/chapter/10.1007/978-3-031-36709-0_14))
    **Jin Sano** and Kazunori Ueda,
    "Implementing the λGT Language: A Functional Language with Graphs as First-Class Data",
@@ -49,16 +58,16 @@ Refereed.
    [slide](./materials/pro2022.pdf))
    **Jin Sano**, Naoki Yamamoto, and Kazunori Ueda:
    "Type checking data structures more complex than tree",
-   Journal of Information Processing,
-   Vol.31, 2023, pp.112-130. DOI: <https://doi.org/10.2197/ipsjjip.31.112>.
+   Journal of Information Processing, Vol.31, 2023, pp.112-130.
+   DOI: <https://doi.org/10.2197/ipsjjip.31.112>.
 
-Unrefereed.
+Unrefereed Publications
 
 1. ([pdf](http://jssst.or.jp/files/user/taikai/2022/papers/20-L.pdf),
    [slide](./materials/jssst2022.pdf))
    **Jin Sano** and Kazunori Ueda.
    "A functional language with graphs as first-class data",
-   In Proc. The 39th JSSST Annual Conference, 2022,
+   In Proceedings of the 39th JSSST Annual Conference, 2022,
    [**Presentation Award**](https://jssst2022.wordpress.com/).
    (15pp. unrefereed).
 2. ([pdf](http://jssst.or.jp/files/user/taikai/2021/papers/45-L.pdf),
@@ -66,22 +75,22 @@ Unrefereed.
    **Jin Sano** and Kazunori Ueda.
    "Introducing a syntax-driven and compositional syntax and semantics to hypergraph rewriting system"
    (ハイパーグラフ書き換え系への構文駆動で compositional な構文・意味論の提案),
-   In Proc. The 38th JSSST Annual Conference, 2021,
+   In Proceedings of the 38th JSSST Annual Conference, 2021,
    [**Student Encouragement Award**](https://jssst2021.wordpress.com/).
    (in Japanese, 9pp. unrefereed).
 3. ([arXiv](https://arxiv.org/abs/2103.14698))
    **Jin Sano**.
    "Implementing G-Machine in HyperLMNtal",
-   Bachelor thesis, 2020.
+   Bachelor's thesis, 2020.
 
 # Awards
 
-1. July. 2023:
+1. July 2023:
    [IPSJ Computer Science Research Award for Young Scientists](https://www.ipsj.or.jp/award/cs-award-2023.html)
-2. Sep. 2022:
+2. September 2022:
    [Presentation Award](https://jssst2022.wordpress.com/).
    The 39th JSSST Annual Conference, 2022.
-3. Sep. 2021:
+3. September 2021:
    [Student Encouragement Award](https://jssst2021.wordpress.com/).
    The 38th JSSST Annual Conference, 2021.
 
